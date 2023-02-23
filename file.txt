@@ -1,0 +1,5 @@
+File ini dibuat untuk mengulik github
+  - buat repo
+  - coba clone pake akun lain
+  - update main repo
+  - cara update repo di akun lain
